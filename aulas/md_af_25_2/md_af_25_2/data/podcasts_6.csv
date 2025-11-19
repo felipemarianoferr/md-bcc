@@ -1,0 +1,50 @@
+1,Vigilantes da Nuvem,No ar,Alice,Bob,Charlie,David,Eva,Frank,Grace,Henry,Ivy,Jack,Kelly,Liam,Mia,Noah,Olive,Peter,Quinn,Rachel,Sam,Tina,Uriel,Vera,Zezin
+2,Esquadrao do Sono,Oculto,Bruno,Fernanda,Gustavo,Zezin,Hugo,Iara,Joao,Karina,Lucas,Marta,Nuno,Olga,Pedro,Quiteria,Raul,Silvia,Tadeu,Ursula,Vitor,Wendy,Xavier,Yara,Zeus
+3,Falcoes Noturnos,No ar,Carla,Daniel,Elena,Felipe,Giovana,Zezin,Henrique,Isabela,Jonas,Kamila,Leo,Mariana,Nando,Olivia,Pablo,Quincy,Renata,Sergio,Talita,Umberto,Vitoria,William,Xena,Yago
+4,Os Pioneiros,No ar,Diogo,Helena,Igor,Julia,Kleber,Laura,Marcelo,Nina,Otavio,Patricia,Rafael,Sofia,Thiago,Vania,Wesley,Xuxa,Yuri,Zelia,Alan,Bia,Cesar
+5,Alfas do Amanha,Oculto,Eduarda,Lucas,Mariana,Nuno,Olivia,Zezin,Pedro,Quincy,Rafaela,Sergio,Teresa,Uriel,Victor,Waldemar,Xenia,Yago,Zoe,Andre,Barbara,Claudio,Debora,Elias,Fabiana
+6,Anti GPT,No ar,Fabio,Pedro,Rafaela,Gabriel,Heloisa,Igor,Julia,Kleber,Leticia,Mauro,Natalia,Otavio,Priscila,Ricardo,Simone,Thiago,Ulisses,Vanessa,Wagner,Xavier,Yasmim,Zeca
+7,Mestres do Codigo,No ar,Gabriel,Sara,Tiago,Vitoria,Xavier,Yuri,Zoe,Alan,Breno,Carina,Diego,Elisa,Felipe,Giovanna,Heitor,Irene,Joaquim,Kelly,Luciano,Monica,Nadia,Orlando,Paula
+8,Rapositos,Oculto,Heloisa,Yago,Zelia,Alice,Bento,Cecilia,Daniel,Erika,Fernando,Gisele,Hugo,Ismael,Jessica,Kauan,Lara,Murilo,Nicole,Otavio,Paty,Quirino,Ramon,Silvia,Tom
+9,Vigilantes do Quinto Andar,No ar,Igor,Amanda,Bento,Cecilia,Davi,Estela,Fabio,Giovana,Heitor,Ines,Jorge,Karina,Leo,Manuela,Nestor,Olivia,Paulo,Queren,Renato,Sofia,Tulio,Ursula
+10,Mestres do SQL,No ar,Julia,Leo,Monica,Paulo,Alice,Bruno,Carla,Daniel,Evelyn,Fabio,Gilberto,Helena,Igor,Janaína,Kleber,Laura,Mario,Nina,Otavio,Priscila,Ricardo,Sabrina
+11,Zero Latencia,No ar,Ricardo,Sofia,Tadeu,Ursula,Vitor,Walter,Xenia,Yago,Zoe,Andre,Beatriz,Carlos,Diana,Elton,Flora,Geraldo,Hilda,Ivan,Julia,Karla,Luciano,Maria,Nilton
+12,Os Recursivos,No ar,Vanessa,Wagner,Xavier,Yara,Zeus,Ana,Bia,Carlos,Diana,Elias,Felipe,Gisela,Hugo,Igor,Julia,Kleber,Laura,Marco,Nina,Olavo,Pâmela,Quincas,Ricardo,Sabrina
+13,Foguetes de Papel,Oculto,Carlos,Diana,Elias,Flavia,Gilmar,Helena,Igor,Joice,Kleber,Luana,Murilo,Nadia,Osmar,Priscila,Quincas,Rafaela,Silas,Tatiane,Ubiratan,Viviane,Wagner
+14,A Grande Frota,No ar,Fernanda,Guilherme,Heitor,Isabela,Joao,Karen,Lucas,Manuela,Nestor,Otavio,Paula,Quentin,Raquel,Sergio,Tatiana,Uriel,Valeria,Wagner,Xenia,Yago,Zilda
+15,Pixeladores,No ar,Celso,Paula,Quincy,Raimundo,Suzana,Tiago,Ulisses,Vanda,Waldir,Xuxa,Yara,Zeca,Aline,Breno,Carla,Daniel,Erica,Fabio,Giovana,Hugo,Igor,Julia,Kleber
+16,Linha de Frente,No ar,Renata,Sergio,Teresa,Uriel,Vitor,Wesley,Xavier,Yasmim,Zoe,Alan,Bia,Ciro,Denise,Eduardo,Flavia,Gilberto,Helena,Igor,Janaína,Kleber,Laura,Marcelo
+17,Nao Bugamos,No ar,Vitor,Waldir,Xuxa,Yuri,Zelia,Alan,Breno,Cintia,Daniel,Elisa,Fabricio,Georgia,Heitor,Iara,Jeferson,Karina,Lucas,Marta,Nilson,Olga,Paulo,Quirina,Roberto
+18,Caminho Certo,Bloqueado,Yasmin,Zeca,Aline,Breno,Cintia,Davi,Elisa,Fabio,Giovanna,Hugo,Igor,Julia,Kleber,Laura,Marco,Nina,Otavio,Paula,Quincas,Ricardo,Sofia,Thiago,Ursula
+19,Caçadores de Bug,Oculto,Diego,Erica,Fabiano,Gustavo,Helena,Igor,Julia,Kleber,Leticia,Mauro,Natalia,Otavio,Priscila,Quirino,Raul,Silvia,Tadeu,Ulisses,Vanessa,Wagner,Xavier,Yara
+20,Vigilantes do Quinto Andar,Oculto,Gustavo,Hugo,Iara,Jonas,Karina,Lucas,Maria,Nuno,Olga,Pedro,Quiteria,Rafaela,Samuel,Tatiana,Ubiratan,Valeria,William,Xenia,Yago,Zelia,Alice
+21,Vagalumes Brilhantes,Oculto,Leticia,Marcelo,Natalia,Otavio,Priscila,Quincy,Renato,Sofia,Tadeu,Uriel,Vanessa,Wagner,Xavier,Yara,Zeus,Alan,Bia,Carlos,Diana,Elias,Flavia,Gilberto
+22,Onda Limpa,Oculto,Otavio,Patricia,Quintino,Raquel,Sergio,Teresa,Uriel,Vitor,Waldir,Xuxa,Yuri,Zelia,Alice,Breno,Carla,Daniel,Elena,Fabio,Giovana,Hugo,Igor,Julia,Kleber
+23,Risco Zero,Oculto,Roberto,Simone,Thiago,Ulisses,Vania,Wesley,Xavier,Yara,Zeus,Alan,Bia,Carlos,Diana,Elisa,Fabiano,Giselle,Heitor,Igor,Janaína,Kleber,Laura,Mario,Nina
+24,Quarta Dimensao,No ar,Ulisses,Veronica,Washington,Xenia,Yuri,Zoe,Zezin,André,Bárbara,Cesar,Denise,Eduardo,Fátima,Gerson,Helena,Igor,Júlia,Kleber,Lara,Marcelo,Nina,Olavo,Paula
+25,Aceleradores,No ar,Yasmim,Zeca,André,Bruna,Claudio,Daniela,Elias,Fabiana,Gabriel,Heloisa,Igor,Julia,Kleber,Laura,Mario,Nina,Osvaldo,Priscila,Quirino,Renato,Sofia,Thiago
+26,Nuvem Segura,Oculto,Bruna,Claudio,Denise,Eduardo,Fabio,Gisele,Heitor,Igor,Jéssica,Kleber,Lucas,Marta,Nuno,Olga,Pedro,Quitéria,Rafael,Sabrina,Túlio,Ursula,Vitor,Xenia
+27,Forca Tarefa,No ar,Eduardo,Fatima,Gerson,Helena,Igor,Julia,Kleber,Laura,Mario,Nina,Otavio,Paula,Quincy,Renata,Sergio,Tadeu,Uriel,Vanessa,Wagner,Xavier,Yara,Zeus,Alan
+28,Os Desbravadores,No ar,Helena,Israel,Jessica,Kleber,Laura,Marcelo,Nina,Otavio,Patricia,Quentin,Rafael,Sabrina,Thiago,Uriel,Vitor,Waldir,Xuxa,Yuri,Zelia,Alice,Bento,Carla
+29,Pilares Digitais,Oculto,Laura,Mauro,Nubia,Osmar,Priscila,Quincy,Rafael,Sofia,Tadeu,Ulisses,Viviane,Wagner,Xenia,Yago,Zoe,André,Beatriz,Carlos,Diana,Elias,Flavia,Gilberto
+30,Equipe Relampago,No ar,Priscila,Quelvin,Rodrigo,Samara,Tadeu,Ulisses,Vanessa,Walter,Xavier,Yara,Zeus,Ana,Bia,Carlos,Diana,Elias,Felipe,Giovana,Hugo,Igor,Julia,Kleber
+31,Inovacao Total,No ar,Tania,Ubiratan,Vivian,Waldir,Xuxa,Yuri,Zelia,Alice,Breno,Carla,Daniel,Elisa,Fabio,Giovanna,Heitor,Igor,Janaína,Kleber,Laura,Marco,Nina,Otavio,Paula
+32,Conexao Maxima,No ar,Walter,Xenia,Yuri,Zilda,Alan,Breno,Cintia,Davi,Elisa,Fabiano,Gisele,Heitor,Igor,Julia,Kleber,Leticia,Marco,Nina,Otavio,Priscila,Quirino,Ricardo
+33,Solucoes Rapidas,Oculto,Alvaro,Beatriz,Caua,Daniela,Elias,Flavia,Gilberto,Helena,Igor,Jonas,Karina,Lucas,Marta,Nina,Otavio,Priscila,Quincy,Raquel,Sergio,Tadeu,Ulisses
+34,Time Alfa,Bloqueado,Debora,Emerson,Flavia,Gilberto,Helena,Igor,Jonas,Karina,Lucas,Marta,Nuno,Olga,Pedro,Quiteria,Rafael,Sabrina,Thiago,Uriel,Vitor,Wagner,Xenia,Yuri,Zelia
+35,Vetor Positivo,No ar,Horacio,Iris,Jonas,Karina,Lucas,Marta,Nuno,Olga,Pedro,Quincy,Rafaela,Sergio,Teresa,Uriel,Vitor,Waldir,Xavier,Yara,Zeus,Alan,Bia,Carlos,Diana
+36,Mente Ativa,Bloqueado,Kelly,Luciano,Mirela,Nuno,Olga,Pedro,Quiteria,Raul,Silvia,Tadeu,Ursula,Vitor,Wendy,Xavier,Yara,Zeus,Alice,Bento,Carla,Daniel,Elena,Fabio
+37,A Prova de Falhas,No ar,Nelson,Olavo,Pietra,Quiteria,Renato,Sofia,Tadeu,Ulisses,Vania,Wesley,Xavier,Yara,Zeus,Alice,Breno,Carlos,Diana,Elias,Flavia,Gilberto,Hugo,Igor
+38,Gigantes da Rede,No ar,Renan,Silvana,Tobias,Ulisses,Vitor,Waldir,Zezin,Xuxa,Yuri,Zelia,Alan,Breno,Cintia,Davi,Elisa,Fabio,Giovana,Hugo,Igor,Janaína,Kleber,Laura,Marco
+39,Foco Total,Bloqueado,Ulla,Valmir,Wendel,Xenia,Yago,Zoe,Andre,Barbara,Claudio,Zezin,Denise,Elias,Fabiana,Gilberto,Helena,Igor,Julia,Kleber,Laura,Mario,Nina,Otavio,Paula
+40,Sinergia Pura,Bloqueado,Ximenes,Yara,Zane,Alan,Bia,Carlos,Diana,Elias,Flavia,Gilberto,Zezin,Hugo,Igor,Julia,Kleber,Laura,Marco,Nina,Olavo,Paula,Quincy,Ricardo,Sofia,Tadeu
+41,Guardioes da Info,No ar,Afonso,Brenda,Cesar,Dalila,Elias,Flavia,Gilberto,Helena,Igor,Jonas,Karina,Zezin,Lucas,Marta,Nuno,Olga,Pedro,Quincy,Rafaela,Sergio,Teresa,Uriel
+42,Codigo Aberto,Oculto,Elza,Fred,Gisela,Heitor,Igor,Julia,Kleber,Laura,Mario,Nina,Otavio,Paula,Quirino,Renato,Zezin,Sofia,Tadeu,Ulisses,Vitor,Waldir,Xuxa,Yuri,Zelia,Alan
+43,Super Devs,No ar,Hamilton,Ingrid,Junior,Karina,Lucas,Marta,Nuno,Olga,Pedro,Quiteria,Rafaela,Sergio,Teresa,Uriel,Zezin,Vitor,Waldir,Xavier,Yara,Zeus,Alice,Breno,Carlos
+44,Navegadores,No ar,Karina,Leandro,Marta,Noel,Osmar,Paula,Quincy,Ricardo,Sofia,Tadeu,Uriel,Vitor,Waldir,Xenia,Yuri,Zelia,Alan,Bia,Carlos,Diana,Elias,Flavia,Gilberto
+45,Elite Tech,Oculto,Osvaldo,Penelope,Quirino,Renata,Sergio,Teresa,Uriel,Vitor,Waldir,Xuxa,Yuri,Zelia,Alice,Breno,Carla,Daniel,Elisa,Fabio,Giovana,Hugo,Igor,Julia,Kleber
+46,Ponto Final,No ar,Ronaldo,Stella,Tarcisio,Ulisses,Vitor,Waldir,Xavier,Yara,Zeus,Alan,Bia,Carlos,Diana,Elias,Flavia,Gilberto,Hugo,Igor,Janaína,Kleber,Laura,Oculto
+47,Visao Global,No ar,Viviane,Washington,Xavier,Yuri,Zelia,Zezin,Alan,Breno,Cintia,Davi,Elias,Fabio,Giovanna,Hugo,Igor,Julia,Kleber,Laura,Marco,Nina,Otavio,Paula,Oculto
+48,Os Impares,Oculto,Yasmim,Zacarias,Ariane,Bento,Carla,Zezin,Daniel,Elias,Fabio,Giovana,Hugo,Igor,Julia,Kleber,Laura,Mario,Nina,Otavio,Paula,Quirino,Renato,Sofia,No ar
+49,Base Forte,No ar,Bernardo,Clara,Davi,Estela,Fabio,Giovana,Hugo,Igor,Julia,Kleber,Laura,Marco,Nina,Otavio,Paula,Quincy,Renata,Sergio,Tadeu,Uriel,Vitor,Wagner,Xenia
+50,Arca Digital,No ar,Ferdinando,Gloria,Henrique,Iago,Julia,Zezin,Kleber,Laura,Marco,Nina,Otavio,Paula,Quirino,Renato,Sofia,Tadeu,Uriel,Vitor,Waldir,Xuxa,Yuri,Zelia,Alan,Bia
